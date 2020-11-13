@@ -1,0 +1,6 @@
+version: "1"
+rules:
+  - base: webrtc
+    upstream: Johni0702:webrtc
+    mergeMethod: hardreset
+    
